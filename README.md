@@ -1,4 +1,6 @@
-## Task description ##
+# GCD v2
+
+## Task description
 
 Design a class whose methods allow calculating the [Greatest Common Divisor](https://gitlab.com/epam-autocode-tasks/gcd.git) (GCD) using various algorithms.
 - Implement [Euclid's algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm) for [two](Gcd/IntegerExtensions.cs#L18), [three](Gcd/IntegerExtensions.cs#L32), [etc.](Gcd/IntegerExtensions.cs#L46) of integers. 
